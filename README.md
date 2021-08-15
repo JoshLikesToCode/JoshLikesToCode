@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshLikesToCode
-- 👀 I’m interested in coding for a better future!
-- 🌱 I’m currently learning C and Java!
+- 👀 I’m interested in coding for a better future.
+- 🌱 I'm currently learning web development.
 - 💞️ I’m looking to collaborate on any and all projects!
 - 📫 How to reach me http://joshlikestocode.com
 
