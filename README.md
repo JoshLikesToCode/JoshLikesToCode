@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoshLikesToCode
-- 👀 I’m interested in creating effecient and scalable Web APIs
-- 🌱 I'm currently working as an Associate Software Engineer at Duck Creek Technologies
+👋 Hi, I’m @JoshLikesToCode
 
-<!---
-JoshLikesToCode/JoshLikesToCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Senior Platform Engineer with a background in building efficient, scalable Web APIs and cloud-native platforms. I enjoy working on systems that make it easier for teams to ship reliable software.
+
+Outside of work, I’m into Japanese culture and travel, good coffee, and experimenting with tools that make engineering work smoother and more enjoyable.
+
+🌱 Currently working as a Platform Engineer at Duck Creek Technologies  
+🔧 Interests: Platform Engineering, CI/CD, cloud-native systems, developer experience
