@@ -1,4 +1,5 @@
 👋 Hi, I'm @JoshLikesToCode
+
 I'm a Software Engineer focused on building agentic AI systems. I design multi-step, model-driven workflows that can reason and act autonomously. 
 
 My background in various cloud infrastructure, Kubernetes, and CI/CD keeps me grounded in how these systems need to run reliably at scale.
