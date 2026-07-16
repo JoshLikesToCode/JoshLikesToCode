@@ -1,8 +1,10 @@
-👋 Hi, I’m @JoshLikesToCode
+👋 Hi, I'm @JoshLikesToCode
+I'm a Software Engineer focused on building agentic AI systems. I design multi-step, model-driven workflows that can reason and act autonomously. 
 
-I’m a Senior Platform Engineer with a background in building efficient, scalable Web APIs and cloud-native platforms. I enjoy working on systems that make it easier for teams to ship reliable software.
+My background in various cloud infrastructure, Kubernetes, and CI/CD keeps me grounded in how these systems need to run reliably at scale.
 
-Outside of work, I’m into Japanese culture and travel, good coffee, and experimenting with tools that make engineering work smoother and more enjoyable.
+Outside of work, I'm into Japanese culture and travel, good coffee, and keeping up with where AI tooling is actually headed.
 
-🌱 Currently working as a Platform Engineer at Duck Creek Technologies  
-🔧 Interests: Platform Engineering, CI/CD, cloud-native systems, developer experience
+🌱 Currently building agentic AI on the Underwriting Workbench team at Duck Creek Technologies
+
+🔧 Interests: Agentic AI, LangGraph, TypeScript, Node.js, cloud-native systems, developer experience
